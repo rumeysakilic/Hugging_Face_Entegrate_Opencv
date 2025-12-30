@@ -53,4 +53,8 @@ Tüm veriler GPT-2 modeline "Prompt Engineering" teknikleri ile beslenir ve fina
 
 "Bir süredir bu tuhaf hissi yaşıyordum. Bu ahır, bir tepe üzerindeki bir evdi. Bir tepedeydi. Gölgeli bir köşedeydi. O bir evdi. Ahır bir tepedeydi. Gölgeli bir köşedeydi. O bir evdi. Ahır bir tepedeydi. Gölgeli bir köşedeydi. O bir evdi. Ahır bir tepedeydi..."
 
-<img width="894" height="173" alt="Image" src="https://github.com/user-attachments/assets/cc8aa889-9c69-40ad-a9b5-74172d6b8d4c" />
+Örnek Çıktı 2: "An unexpected visitor to the woods; she's looking for something special, some kind of treasure-filled place or object in this world that belongs only within its own borders (if you're familiar with Fallout) and where it was once known as "the land." A young girl looks up at her grandmother who is sitting near an old tree line running down one side by another like nothing"
+
+"Ormana beklenmedik bir ziyaretçi geldi; özel bir şey, bu dünyaya ait ve sadece kendi sınırları içinde var olan (eğer Fallout'a aşinaysanız) ve bir zamanlar 'toprak' olarak bilinen hazine dolu bir yer veya nesne arıyor. Küçük bir kız, bir yanından diğeri sanki hiçbir şey yokmuş gibi sıra sıra uzanan ağaç hattının yanında oturan büyükannesine bakıyor."
+
+<img width="1418" height="143" alt="Image" src="https://github.com/user-attachments/assets/891187b8-43c7-4a38-81b3-11042c48db22" />
